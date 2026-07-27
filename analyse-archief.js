@@ -1,4 +1,4 @@
-/* ccinfo.nl analyse-archief widget v1.3 - extern (GitHub Pages) - 2026-07-27 */
+/* ccinfo.nl analyse-archief widget v1.4 - extern (GitHub Pages) - 2026-07-27 */
 (function(){
   if (window.location.pathname.indexOf('/analyse') !== 0) return;
   if (document.getElementById('ccinfo-archief')) return;
