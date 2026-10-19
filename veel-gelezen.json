@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "bijgewerkt": "2026-10-13",
- "periode": "2026-09-12 t/m 2026-10-10",
+ "bijgewerkt": "2026-10-19",
+ "periode": "2026-09-18 t/m 2026-10-16",
  "uitleg": [
   {
    "url": "https://www.ccinfo.nl/menu-nieuws-trends/darkweb/hoe-kom-ik-op-het-darkweb",
@@ -17,7 +17,7 @@
   },
   {
    "url": "https://www.ccinfo.nl/bibliotheek/shinyhunters",
-   "titel": "ShinyHunters hackergroep, aanvallen en gestolen data 2026",
+   "titel": "ShinyHunters, wie zijn ze? Datalek bij Odido en aanvallen",
    "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/shutterstock_1044981013-high.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
    "alt": "Figuren in capuchon voor blauwe datastrepen"
   },
@@ -58,13 +58,6 @@
    "datum": "10 okt 2020"
   },
   {
-   "url": "https://www.ccinfo.nl/menu-nieuws-trends/darkweb/2146938_darkweb-en-telegram-nieuwe-fronten-in-de-strijd-tegen-illegale-drugshandel",
-   "titel": "Darkweb en Telegram: Nieuwe fronten in de strijd tegen illegale drugshandel",
-   "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/darkweb-and-telegram-new-fronts-in-the-fight-against-illegal-drug-trafficking-high.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
-   "alt": "Darkweb en Telegram: Nieuwe fronten in de strijd tegen illegale drugshandel",
-   "datum": "9 nov 2024"
-  },
-  {
    "url": "https://www.ccinfo.nl/menu-hulpmiddelen-kwetsbaarheden/tips/1909679_vraag-van-de-week-ik-ga-naar-china-en-reis-voor-zaken-wat-kan-ik-het-beste-doen",
    "titel": "Op zakenreis naar China? Zo bescherm je je digitale veiligheid",
    "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/vrijdag-wk-26-2024-high.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
@@ -79,18 +72,18 @@
    "datum": "24 feb 2026"
   },
   {
+   "url": "https://www.ccinfo.nl/menu-nieuws-trends/darkweb/2146938_darkweb-en-telegram-nieuwe-fronten-in-de-strijd-tegen-illegale-drugshandel",
+   "titel": "Darkweb en Telegram: Nieuwe fronten in de strijd tegen illegale drugshandel",
+   "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/darkweb-and-telegram-new-fronts-in-the-fight-against-illegal-drug-trafficking-high.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
+   "alt": "Darkweb en Telegram: Nieuwe fronten in de strijd tegen illegale drugshandel",
+   "datum": "9 nov 2024"
+  },
+  {
    "url": "https://www.ccinfo.nl/menu-hulpmiddelen-kwetsbaarheden/tips/1813047_vraag-van-de-week-moet-ik-filevault-activeren-op-mijn-mac-voor-betere-beveiliging",
    "titel": "FileVault op Mac activeren, is het de moeite waard?",
    "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/vrijdag-wk-19-2024-high.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
    "alt": "FileVault op Mac activeren, is het de moeite waard?",
    "datum": "10 mei 2024"
-  },
-  {
-   "url": "https://www.ccinfo.nl/menu-nieuws-trends/darkweb/2616841_het-duistere-einde-van-abacus-market-exit-scam-op-het-darkweb-onthuld",
-   "titel": "Abacus Market, de exit scam die het darkweb schokte",
-   "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/het-duistere-einde-van-abacus-market-exit-scam-op-het-darkweb-onthuld-high.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
-   "alt": "Abacus Market, de exit scam die het darkweb schokte",
-   "datum": "19 jul 2025"
   },
   {
    "url": "https://www.ccinfo.nl/menu-nieuws-trends/darkweb/1992592_de-opkomst-van-kwaadaardige-ai-tools-op-het-darkweb-een-zorgwekkende-trend",
@@ -100,18 +93,25 @@
    "datum": "18 aug 2024"
   },
   {
-   "url": "https://www.ccinfo.nl/menu-onderwijs-ontwikkeling/cybercrime/deep-fake/nieuws-deep-fake/523657_nieuwe-evolutie-ontdekt-op-het-beruchte-deepnude",
-   "titel": "Deepnude en deepfake naaktbeelden, aanpak in 2026",
-   "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/9rgbwc/Cybercrime-341-CCINL.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
-   "alt": "Nieuwe evolutie ontdekt op het beruchte 'DeepNude'",
-   "datum": "22 okt 2020"
+   "url": "https://www.ccinfo.nl/menu-nieuws-trends/darkweb/2594462_de-dodenlijst-op-het-darkweb-hoe-huurmoordwebsites-het-spel-van-leven-en-dood-spelen",
+   "titel": "De dodenlijst op het darkweb, hoe huurmoordwebsites het spel van leven en dood spelen",
+   "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/de-dodenlijst-op-het-darkweb-hoe-huurmoordwebsites-het-spel-van-leven-en-dood-spelen-high.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
+   "alt": "De dodenlijst op het darkweb, hoe huurmoordwebsites het spel van leven en dood spelen",
+   "datum": "5 jul 2025"
   },
   {
-   "url": "https://www.ccinfo.nl/menu-onderwijs-ontwikkeling/cybercrime/digitale-fraude-algemeen/357572_concertgangers-opgelicht-met-nepmails-ticketswap",
-   "titel": "Oplichting via Ticketswap, zo herken je nepmails en fraude",
-   "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/ax2228/Concertgangers-opgelicht-met-nepmails-Ticketswap.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
-   "alt": "Concertgangers opgelicht met nepmails Ticketswap",
-   "datum": "23 sep 2019"
+   "url": "https://www.ccinfo.nl/menu-nieuws-trends/darkweb/2616841_het-duistere-einde-van-abacus-market-exit-scam-op-het-darkweb-onthuld",
+   "titel": "Abacus Market, de exit scam die het darkweb schokte",
+   "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/het-duistere-einde-van-abacus-market-exit-scam-op-het-darkweb-onthuld-high.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
+   "alt": "Abacus Market, de exit scam die het darkweb schokte",
+   "datum": "19 jul 2025"
+  },
+  {
+   "url": "https://www.ccinfo.nl/bibliotheek/datalek-gegevensdiefstal/3031247_shinyhunters-publiceert-gestolen-odido-data-dit-is-jullie-schuld",
+   "titel": "ShinyHunters lekt Odido data, 21 miljoen records gestolen",
+   "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/laptop-ccinfo-1920-x-1080-high-r40iox.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
+   "alt": "ShinyHunters lekt Odido data, 21 miljoen records gestolen",
+   "datum": "26 feb 2026"
   }
  ]
 }
