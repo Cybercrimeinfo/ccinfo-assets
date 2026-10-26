@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "bijgewerkt": "2026-10-19",
- "periode": "2026-09-18 t/m 2026-10-16",
+ "bijgewerkt": "2026-10-26",
+ "periode": "2026-09-25 t/m 2026-10-23",
  "uitleg": [
   {
    "url": "https://www.ccinfo.nl/menu-nieuws-trends/darkweb/hoe-kom-ik-op-het-darkweb",
@@ -58,6 +58,13 @@
    "datum": "10 okt 2020"
   },
   {
+   "url": "https://www.ccinfo.nl/menu-hulpmiddelen-kwetsbaarheden/tips/3027041_gehackt-bij-odido-wat-criminelen-nu-over-jou-weten",
+   "titel": "ShinyHunters Odido lek, 21 miljoen records gestolen",
+   "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/gehackt-bij-odido-wat-criminelen-nu-over-jou-weten-high.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
+   "alt": "ShinyHunters Odido lek, 21 miljoen records gestolen",
+   "datum": "24 feb 2026"
+  },
+  {
    "url": "https://www.ccinfo.nl/menu-hulpmiddelen-kwetsbaarheden/tips/1909679_vraag-van-de-week-ik-ga-naar-china-en-reis-voor-zaken-wat-kan-ik-het-beste-doen",
    "titel": "Op zakenreis naar China? Zo bescherm je je digitale veiligheid",
    "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/vrijdag-wk-26-2024-high.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
@@ -65,11 +72,18 @@
    "datum": "28 jun 2024"
   },
   {
-   "url": "https://www.ccinfo.nl/menu-hulpmiddelen-kwetsbaarheden/tips/3027041_gehackt-bij-odido-wat-criminelen-nu-over-jou-weten",
-   "titel": "ShinyHunters Odido lek, 21 miljoen records gestolen",
-   "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/gehackt-bij-odido-wat-criminelen-nu-over-jou-weten-high.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
-   "alt": "ShinyHunters Odido lek, 21 miljoen records gestolen",
-   "datum": "24 feb 2026"
+   "url": "https://www.ccinfo.nl/menu-hulpmiddelen-kwetsbaarheden/tips/2093882_vraag-van-de-week-kunnen-hackers-verkeerslichten-manipuleren-feiten-en-fabels-uitgelegd",
+   "titel": "Vraag van de week: Kunnen hackers verkeerslichten manipuleren? Feiten en fabels uitgelegd",
+   "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/question-of-the-week-can-hackers-manipulate-traffic-lights-facts-and-fables-explained-high.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
+   "alt": "Vraag van de week: Kunnen hackers verkeerslichten manipuleren? Feiten en fabels uitgelegd",
+   "datum": "12 okt 2024"
+  },
+  {
+   "url": "https://www.ccinfo.nl/menu-onderwijs-ontwikkeling/cybercrime/hacking/2229021_onzichtbare-aanvallen-hoe-wifi-hackers-te-werk-gaan",
+   "titel": "Zo gaan wifi hackers te werk (en zo bescherm je jezelf)",
+   "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/invisible-attacks-how-wifi-hackers-operate-high.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
+   "alt": "Zo gaan wifi hackers te werk (en zo bescherm je jezelf)",
+   "datum": "27 dec 2024"
   },
   {
    "url": "https://www.ccinfo.nl/menu-nieuws-trends/darkweb/2146938_darkweb-en-telegram-nieuwe-fronten-in-de-strijd-tegen-illegale-drugshandel",
@@ -79,13 +93,6 @@
    "datum": "9 nov 2024"
   },
   {
-   "url": "https://www.ccinfo.nl/menu-hulpmiddelen-kwetsbaarheden/tips/1813047_vraag-van-de-week-moet-ik-filevault-activeren-op-mijn-mac-voor-betere-beveiliging",
-   "titel": "FileVault op Mac activeren, is het de moeite waard?",
-   "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/vrijdag-wk-19-2024-high.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
-   "alt": "FileVault op Mac activeren, is het de moeite waard?",
-   "datum": "10 mei 2024"
-  },
-  {
    "url": "https://www.ccinfo.nl/menu-nieuws-trends/darkweb/1992592_de-opkomst-van-kwaadaardige-ai-tools-op-het-darkweb-een-zorgwekkende-trend",
    "titel": "De opkomst van kwaadaardige AI-tools op het darkweb: een zorgwekkende trend",
    "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/the-rise-of-malicious-ai-tools-on-the-dark-web-a-worrying-trend-high.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
@@ -93,25 +100,18 @@
    "datum": "18 aug 2024"
   },
   {
-   "url": "https://www.ccinfo.nl/menu-nieuws-trends/darkweb/2594462_de-dodenlijst-op-het-darkweb-hoe-huurmoordwebsites-het-spel-van-leven-en-dood-spelen",
-   "titel": "De dodenlijst op het darkweb, hoe huurmoordwebsites het spel van leven en dood spelen",
-   "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/de-dodenlijst-op-het-darkweb-hoe-huurmoordwebsites-het-spel-van-leven-en-dood-spelen-high.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
-   "alt": "De dodenlijst op het darkweb, hoe huurmoordwebsites het spel van leven en dood spelen",
-   "datum": "5 jul 2025"
+   "url": "https://www.ccinfo.nl/menu-nieuws-trends/darkweb/368026_in-17-min-een-wapen",
+   "titel": "In 17 minuten een wapen kopen op het darkweb, kan dat echt?",
+   "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/rgn0cf/In17mineenwapen.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
+   "alt": "In 17 minuten een wapen kopen op het darkweb, kan dat echt?",
+   "datum": "3 nov 2019"
   },
   {
-   "url": "https://www.ccinfo.nl/menu-nieuws-trends/darkweb/2616841_het-duistere-einde-van-abacus-market-exit-scam-op-het-darkweb-onthuld",
-   "titel": "Abacus Market, de exit scam die het darkweb schokte",
-   "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/het-duistere-einde-van-abacus-market-exit-scam-op-het-darkweb-onthuld-high.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
-   "alt": "Abacus Market, de exit scam die het darkweb schokte",
-   "datum": "19 jul 2025"
-  },
-  {
-   "url": "https://www.ccinfo.nl/bibliotheek/datalek-gegevensdiefstal/3031247_shinyhunters-publiceert-gestolen-odido-data-dit-is-jullie-schuld",
-   "titel": "ShinyHunters lekt Odido data, 21 miljoen records gestolen",
-   "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/laptop-ccinfo-1920-x-1080-high-r40iox.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
-   "alt": "ShinyHunters lekt Odido data, 21 miljoen records gestolen",
-   "datum": "26 feb 2026"
+   "url": "https://www.ccinfo.nl/menu-onderwijs-ontwikkeling/cybercrime/digitale-fraude-algemeen/357572_concertgangers-opgelicht-met-nepmails-ticketswap",
+   "titel": "Oplichting via Ticketswap, zo herken je nepmails en fraude",
+   "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/ax2228/Concertgangers-opgelicht-met-nepmails-Ticketswap.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
+   "alt": "Concertgangers opgelicht met nepmails Ticketswap",
+   "datum": "23 sep 2019"
   }
  ]
 }
