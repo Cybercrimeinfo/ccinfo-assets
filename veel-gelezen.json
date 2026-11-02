@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "bijgewerkt": "2026-10-26",
- "periode": "2026-09-25 t/m 2026-10-23",
+ "bijgewerkt": "2026-11-02",
+ "periode": "2026-10-02 t/m 2026-10-30",
  "uitleg": [
   {
    "url": "https://www.ccinfo.nl/menu-nieuws-trends/darkweb/hoe-kom-ik-op-het-darkweb",
@@ -16,26 +16,19 @@
    "alt": "De drie lagen van het internet als ijsberg"
   },
   {
-   "url": "https://www.ccinfo.nl/bibliotheek/shinyhunters",
-   "titel": "ShinyHunters, wie zijn ze? Datalek bij Odido en aanvallen",
-   "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/shutterstock_1044981013-high.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
-   "alt": "Figuren in capuchon voor blauwe datastrepen"
-  },
-  {
    "url": "https://www.ccinfo.nl/menu-onderwijs-ontwikkeling/cybercrime/sextortion/2587825_de-donkere-kant-van-ai-hoe-nudify-apps-de-grenzen-van-privacy-en-veiligheid-overschrijden",
    "titel": "Nudify apps en deepnude AI, gevaren en bescherming uitgelegd",
    "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/de-donkere-kant-van-ai-hoe-nudify-apps-de-grenzen-van-privacy-en-veiligheid-overschrijden-high.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
    "alt": "Vrouw met smartphone, beeld bij het artikel over nudify apps"
-  }
- ],
- "artikelen": [
+  },
   {
    "url": "https://www.ccinfo.nl/menu-hulpmiddelen-kwetsbaarheden/tips/2209906_vraag-van-de-week-moet-ik-mijn-geld-van-de-bank-halen-vanwege-geopolitieke-dreigingen-en-cyberrisico-s",
    "titel": "Moet ik mijn spaargeld van de bank halen? Bankbeveiliging uitgelegd",
    "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/question-of-the-week-should-i-take-my-money-out-of-the-bank-because-of-geopolitical-threats-and-cyber-risks-high.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
-   "alt": "Moet ik mijn spaargeld van de bank halen? Bankbeveiliging uitgelegd",
-   "datum": "13 dec 2024"
-  },
+   "alt": "Moet ik mijn spaargeld van de bank halen? Bankbeveiliging uitgelegd"
+  }
+ ],
+ "artikelen": [
   {
    "url": "https://www.ccinfo.nl/menu-onderwijs-ontwikkeling/cybercrime/dating-fraude/821901_hoe-herken-je-nep-advertenties-op-websites-waar-sekswerkers-kunnen-adverteren",
    "titel": "Nep advertenties op sekswerk websites, zo herken je oplichting",
@@ -72,13 +65,6 @@
    "datum": "28 jun 2024"
   },
   {
-   "url": "https://www.ccinfo.nl/menu-hulpmiddelen-kwetsbaarheden/tips/2093882_vraag-van-de-week-kunnen-hackers-verkeerslichten-manipuleren-feiten-en-fabels-uitgelegd",
-   "titel": "Vraag van de week: Kunnen hackers verkeerslichten manipuleren? Feiten en fabels uitgelegd",
-   "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/question-of-the-week-can-hackers-manipulate-traffic-lights-facts-and-fables-explained-high.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
-   "alt": "Vraag van de week: Kunnen hackers verkeerslichten manipuleren? Feiten en fabels uitgelegd",
-   "datum": "12 okt 2024"
-  },
-  {
    "url": "https://www.ccinfo.nl/menu-onderwijs-ontwikkeling/cybercrime/hacking/2229021_onzichtbare-aanvallen-hoe-wifi-hackers-te-werk-gaan",
    "titel": "Zo gaan wifi hackers te werk (en zo bescherm je jezelf)",
    "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/invisible-attacks-how-wifi-hackers-operate-high.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
@@ -86,18 +72,11 @@
    "datum": "27 dec 2024"
   },
   {
-   "url": "https://www.ccinfo.nl/menu-nieuws-trends/darkweb/2146938_darkweb-en-telegram-nieuwe-fronten-in-de-strijd-tegen-illegale-drugshandel",
-   "titel": "Darkweb en Telegram: Nieuwe fronten in de strijd tegen illegale drugshandel",
-   "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/darkweb-and-telegram-new-fronts-in-the-fight-against-illegal-drug-trafficking-high.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
-   "alt": "Darkweb en Telegram: Nieuwe fronten in de strijd tegen illegale drugshandel",
-   "datum": "9 nov 2024"
-  },
-  {
-   "url": "https://www.ccinfo.nl/menu-nieuws-trends/darkweb/1992592_de-opkomst-van-kwaadaardige-ai-tools-op-het-darkweb-een-zorgwekkende-trend",
-   "titel": "De opkomst van kwaadaardige AI-tools op het darkweb: een zorgwekkende trend",
-   "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/the-rise-of-malicious-ai-tools-on-the-dark-web-a-worrying-trend-high.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
-   "alt": "De opkomst van kwaadaardige AI-tools op het darkweb: een zorgwekkende trend",
-   "datum": "18 aug 2024"
+   "url": "https://www.ccinfo.nl/menu-hulpmiddelen-kwetsbaarheden/tips/2093882_vraag-van-de-week-kunnen-hackers-verkeerslichten-manipuleren-feiten-en-fabels-uitgelegd",
+   "titel": "Vraag van de week: Kunnen hackers verkeerslichten manipuleren? Feiten en fabels uitgelegd",
+   "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/question-of-the-week-can-hackers-manipulate-traffic-lights-facts-and-fables-explained-high.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
+   "alt": "Vraag van de week: Kunnen hackers verkeerslichten manipuleren? Feiten en fabels uitgelegd",
+   "datum": "12 okt 2024"
   },
   {
    "url": "https://www.ccinfo.nl/menu-nieuws-trends/darkweb/368026_in-17-min-een-wapen",
@@ -107,11 +86,32 @@
    "datum": "3 nov 2019"
   },
   {
+   "url": "https://www.ccinfo.nl/bibliotheek/datalek-gegevensdiefstal/3031247_shinyhunters-publiceert-gestolen-odido-data-dit-is-jullie-schuld",
+   "titel": "ShinyHunters lekt Odido data, 21 miljoen records gestolen",
+   "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/laptop-ccinfo-1920-x-1080-high-r40iox.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
+   "alt": "ShinyHunters lekt Odido data, 21 miljoen records gestolen",
+   "datum": "26 feb 2026"
+  },
+  {
+   "url": "https://www.ccinfo.nl/menu-nieuws-trends/darkweb/2146938_darkweb-en-telegram-nieuwe-fronten-in-de-strijd-tegen-illegale-drugshandel",
+   "titel": "Darkweb en Telegram: Nieuwe fronten in de strijd tegen illegale drugshandel",
+   "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/darkweb-and-telegram-new-fronts-in-the-fight-against-illegal-drug-trafficking-high.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
+   "alt": "Darkweb en Telegram: Nieuwe fronten in de strijd tegen illegale drugshandel",
+   "datum": "9 nov 2024"
+  },
+  {
    "url": "https://www.ccinfo.nl/menu-onderwijs-ontwikkeling/cybercrime/digitale-fraude-algemeen/357572_concertgangers-opgelicht-met-nepmails-ticketswap",
    "titel": "Oplichting via Ticketswap, zo herken je nepmails en fraude",
    "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/ax2228/Concertgangers-opgelicht-met-nepmails-Ticketswap.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
    "alt": "Concertgangers opgelicht met nepmails Ticketswap",
    "datum": "23 sep 2019"
+  },
+  {
+   "url": "https://www.ccinfo.nl/menu-onderwijs-ontwikkeling/cybercrime/sexting/369932_seks-naaktfoto-s-en-misbruik-zijn-big-business-op-snapchat",
+   "titel": "Sextortion op Snapchat, hoe naaktbeelden worden misbruikt",
+   "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/dezmxg/Seksnaaktfotosenmisbruikzijn22bigbusiness22opSnapchat.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
+   "alt": "Seks, naaktfoto's (en misbruik) zijn \"big business\" op Snapchat",
+   "datum": "10 nov 2019"
   }
  ]
 }
