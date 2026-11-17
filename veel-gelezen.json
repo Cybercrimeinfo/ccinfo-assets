@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "bijgewerkt": "2026-11-09",
- "periode": "2026-10-09 t/m 2026-11-06",
+ "bijgewerkt": "2026-11-17",
+ "periode": "2026-10-17 t/m 2026-11-14",
  "uitleg": [
   {
    "url": "https://www.ccinfo.nl/menu-nieuws-trends/darkweb/hoe-kom-ik-op-het-darkweb",
@@ -65,18 +65,18 @@
    "datum": "24 feb 2026"
   },
   {
-   "url": "https://www.ccinfo.nl/bibliotheek/datalek-gegevensdiefstal/3031247_shinyhunters-publiceert-gestolen-odido-data-dit-is-jullie-schuld",
-   "titel": "ShinyHunters lekt Odido data, 21 miljoen records gestolen",
-   "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/laptop-ccinfo-1920-x-1080-high-r40iox.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
-   "alt": "ShinyHunters lekt Odido data, 21 miljoen records gestolen",
-   "datum": "26 feb 2026"
-  },
-  {
    "url": "https://www.ccinfo.nl/menu-hulpmiddelen-kwetsbaarheden/tips/2093882_vraag-van-de-week-kunnen-hackers-verkeerslichten-manipuleren-feiten-en-fabels-uitgelegd",
    "titel": "Vraag van de week: Kunnen hackers verkeerslichten manipuleren? Feiten en fabels uitgelegd",
    "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/question-of-the-week-can-hackers-manipulate-traffic-lights-facts-and-fables-explained-high.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
    "alt": "Vraag van de week: Kunnen hackers verkeerslichten manipuleren? Feiten en fabels uitgelegd",
    "datum": "12 okt 2024"
+  },
+  {
+   "url": "https://www.ccinfo.nl/bibliotheek/datalek-gegevensdiefstal/3031247_shinyhunters-publiceert-gestolen-odido-data-dit-is-jullie-schuld",
+   "titel": "ShinyHunters lekt Odido data, 21 miljoen records gestolen",
+   "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/laptop-ccinfo-1920-x-1080-high-r40iox.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
+   "alt": "ShinyHunters lekt Odido data, 21 miljoen records gestolen",
+   "datum": "26 feb 2026"
   },
   {
    "url": "https://www.ccinfo.nl/menu-nieuws-trends/darkweb/368026_in-17-min-een-wapen",
@@ -86,13 +86,6 @@
    "datum": "3 nov 2019"
   },
   {
-   "url": "https://www.ccinfo.nl/menu-hulpmiddelen-kwetsbaarheden/tips/2626048_vraag-van-de-week-kan-een-simpele-foto-je-apparaat-infecteren-met-malware",
-   "titel": "Vraag van de week: kan een simpele foto je apparaat infecteren met malware?",
-   "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/vraag-van-de-week-kan-een-simpele-foto-je-apparaat-infecteren-met-malware-high.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
-   "alt": "Vraag van de week: kan een simpele foto je apparaat infecteren met malware?",
-   "datum": "25 jul 2025"
-  },
-  {
    "url": "https://www.ccinfo.nl/menu-nieuws-trends/darkweb/2146938_darkweb-en-telegram-nieuwe-fronten-in-de-strijd-tegen-illegale-drugshandel",
    "titel": "Darkweb en Telegram: Nieuwe fronten in de strijd tegen illegale drugshandel",
    "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/darkweb-and-telegram-new-fronts-in-the-fight-against-illegal-drug-trafficking-high.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
@@ -100,18 +93,25 @@
    "datum": "9 nov 2024"
   },
   {
+   "url": "https://www.ccinfo.nl/menu-hulpmiddelen-kwetsbaarheden/tips/2626048_vraag-van-de-week-kan-een-simpele-foto-je-apparaat-infecteren-met-malware",
+   "titel": "Vraag van de week: kan een simpele foto je apparaat infecteren met malware?",
+   "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/vraag-van-de-week-kan-een-simpele-foto-je-apparaat-infecteren-met-malware-high.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
+   "alt": "Vraag van de week: kan een simpele foto je apparaat infecteren met malware?",
+   "datum": "25 jul 2025"
+  },
+  {
+   "url": "https://www.ccinfo.nl/menu-onderwijs-ontwikkeling/cybercrime/deep-fake/nieuws-deep-fake/523657_nieuwe-evolutie-ontdekt-op-het-beruchte-deepnude",
+   "titel": "Deepnude en deepfake naaktbeelden, aanpak in 2026",
+   "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/9rgbwc/Cybercrime-341-CCINL.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
+   "alt": "Nieuwe evolutie ontdekt op het beruchte 'DeepNude'",
+   "datum": "22 okt 2020"
+  },
+  {
    "url": "https://www.ccinfo.nl/menu-onderwijs-ontwikkeling/cybercrime/hacking/2229021_onzichtbare-aanvallen-hoe-wifi-hackers-te-werk-gaan",
    "titel": "Zo gaan wifi hackers te werk (en zo bescherm je jezelf)",
    "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/invisible-attacks-how-wifi-hackers-operate-high.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
    "alt": "Zo gaan wifi hackers te werk (en zo bescherm je jezelf)",
    "datum": "27 dec 2024"
-  },
-  {
-   "url": "https://www.ccinfo.nl/menu-onderwijs-ontwikkeling/cybercrime/sexting/369932_seks-naaktfoto-s-en-misbruik-zijn-big-business-op-snapchat",
-   "titel": "Sextortion op Snapchat, hoe naaktbeelden worden misbruikt",
-   "beeld": "https://primary.jwwb.nl/public/h/t/h/temp-ofinjmcgqxvqzvyrppbf/dezmxg/Seksnaaktfotosenmisbruikzijn22bigbusiness22opSnapchat.jpg?enable-io=true&enable=upscale&fit=bounds&width=400",
-   "alt": "Seks, naaktfoto's (en misbruik) zijn \"big business\" op Snapchat",
-   "datum": "10 nov 2019"
   }
  ]
 }
