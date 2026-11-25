@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Cybercrimeinfo (ccinfo.nl)</title>
+<link>https://www.ccinfo.nl/</link>
+<description>Het nieuwste cybercrimenieuws uit Nederland en Belgie van ccinfo.nl: artikelen, dagelijkse samenvattingen van rapporten en darkwebberichten.</description>
+<language>nl-NL</language>
+<lastBuildDate>Wed, 25 Nov 2026 00:00:00 +0100</lastBuildDate>
+<atom:link href="https://cybercrimeinfo.github.io/ccinfo-assets/ccinfo.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Kop 0 over een datalek &amp; meer</title>
+<link>https://www.ccinfo.nl/artikelen/1000_kop-0</link>
+<guid isPermaLink="true">https://www.ccinfo.nl/artikelen/1000_kop-0</guid>
+<pubDate>Wed, 25 Nov 2026 00:00:00 +0100</pubDate>
+</item>
+<item>
+<title>Kop 1 over een datalek &amp; meer</title>
+<link>https://www.ccinfo.nl/artikelen/1001_kop-1</link>
+<guid isPermaLink="true">https://www.ccinfo.nl/artikelen/1001_kop-1</guid>
+<pubDate>Tue, 24 Nov 2026 00:00:00 +0100</pubDate>
+</item>
+<item>
+<title>Kop 2 over een datalek &amp; meer</title>
+<link>https://www.ccinfo.nl/artikelen/1002_kop-2</link>
+<guid isPermaLink="true">https://www.ccinfo.nl/artikelen/1002_kop-2</guid>
+<pubDate>Mon, 23 Nov 2026 00:00:00 +0100</pubDate>
+</item>
+<item>
+<title>Kop 3 over een datalek &amp; meer</title>
+<link>https://www.ccinfo.nl/artikelen/1003_kop-3</link>
+<guid isPermaLink="true">https://www.ccinfo.nl/artikelen/1003_kop-3</guid>
+<pubDate>Sun, 22 Nov 2026 00:00:00 +0100</pubDate>
+</item>
+<item>
+<title>Kop 4 over een datalek &amp; meer</title>
+<link>https://www.ccinfo.nl/artikelen/1004_kop-4</link>
+<guid isPermaLink="true">https://www.ccinfo.nl/artikelen/1004_kop-4</guid>
+<pubDate>Sat, 21 Nov 2026 00:00:00 +0100</pubDate>
+</item>
+<item>
+<title>Kop 5 over een datalek &amp; meer</title>
+<link>https://www.ccinfo.nl/artikelen/1005_kop-5</link>
+<guid isPermaLink="true">https://www.ccinfo.nl/artikelen/1005_kop-5</guid>
+<pubDate>Fri, 20 Nov 2026 00:00:00 +0100</pubDate>
+</item>
+</channel>
+</rss>
